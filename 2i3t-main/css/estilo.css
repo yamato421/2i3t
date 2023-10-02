@@ -1,0 +1,13 @@
+@import url(calc_simples.css);
+
+.barra_superior {
+    background-color: rgb(204, 180, 226);
+}
+
+.conteudo {
+    background-color: rgb(214, 172, 141);
+}
+
+.rodape {
+    background-color: rgb(236, 204, 122);
+}
